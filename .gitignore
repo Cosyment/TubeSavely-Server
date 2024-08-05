@@ -1,0 +1,6 @@
+venv/
+build/
+dist/
+zip/
+tube_saverx.egg-info
+__pycache__/
