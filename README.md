@@ -253,9 +253,9 @@ Parse video information from a given URL.
 
 ## App
 
-[TubeSavely](https://github.com/Cosyment/TubeSavely)
+[Flutter Repo TubeSavely](https://github.com/Cosyment/TubeSavely)
 
-[ios&macos](https://apps.apple.com/cn/app/tubesavely/id6503423677)
+[AppStore](https://apps.apple.com/cn/app/tubesavely/id6503423677)
 
 ## Thanks
 
